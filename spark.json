@@ -1,0 +1,7 @@
+{
+  "name": "SparkFunLSM6DS3",
+  "author": "Zero",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A library to drive the LSM6DS3 6DoF."
+}
