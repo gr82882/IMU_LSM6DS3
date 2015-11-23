@@ -28,7 +28,7 @@ Distributed as-is; no warranty is given.
 
 #include "SparkFunLSM6DS3.h"
 #include "stdint.h"
-<<<<<<< HEAD
+
 #include "application.h"
 =======
 >>>>>>> origin/master
